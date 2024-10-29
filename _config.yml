@@ -18,7 +18,9 @@ sns:
 
 # Nav menu
 menu:
-  Archives: /archives
+  About: /about
+  # Archives: /archives
 
+root: /about/
 
 
